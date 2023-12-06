@@ -1,10 +1,8 @@
 ## mas480_project
 
-We provide the implementation and experiment results for the fina report 
+We provide the implementation and experiment results of Bayesian physics informed neural network for final project.
 
- 
 ### Description
-
 
 * Bayesian_PINN_v1-BBB_localrepam.ipynb : BNN trained by VI (BayesbyBackprob + Localreparametrization trick) 
 * Bayesian_PINN_v1-SWAG.ipynb: BNN trained by SWAG
